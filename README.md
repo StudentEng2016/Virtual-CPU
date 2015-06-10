@@ -1,0 +1,4 @@
+Introduction
+The goal of this project was to write c code that simulates a simple CPU .The design of this CPU was based on the ARM architecture .This simulation is at a register level. The project simulates register to register transfers. This CPU simulation has a simple user interface that allow machine level programs to run on this CPU. This CPU will only run programs written for it .The CPU allows for single command tracing as well as debugging features such as  memory dump.
+State of the project 
+This project has reached its completion. Although there are some ways that this project could be enhanced. One enhancement would be making the CPU even more portable than it currently is. There are also certain parts of the program that can be minimize .As of April 27 2015 the project was deemed finished. 
